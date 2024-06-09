@@ -1,5 +1,9 @@
 <h1 align="center"><samp> Hi, I'm Aldo González 👋, welcome to my Github! I'm FullStack Web Developer JavaScript 🧑🏻‍💻</samp></h1>
 
+<div align="center">
+    <img src="https://github.com/AldoO88/AldoO88/assets/128406980/3b41b7c0-11fc-4840-bc59-718f03b2642e" width="600px" alt="Programing image"/>
+</div>
+
 <h2><samp> 🎯 Front-End </samp></h2>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
