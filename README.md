@@ -1,4 +1,4 @@
-<h1 align="center"><samp> Hi, I'm Aldo González 👋, welcome to my Github! I'm FullStack Web Developer JavaScript </samp></h1>
+<h1 align="center"><samp> Hi, I'm Aldo González 👋, welcome to my Github! I'm FullStack Web Developer JavaScript 🧑🏻‍💻</samp></h1>
 
 <h2><samp> 🎯 Front-End </samp></h2>
 
